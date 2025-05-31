@@ -14,5 +14,3 @@ A minimal and clean Tic-Tac-Toe game built with JavaScript and styled with pure 
 - `README.md` - You’re reading it!
 
 ## ✅ No dependencies, no frameworks. Just open the HTML file and play.
-
-This ReadMe was generated with AI, no be me una go stress with writing readme....
