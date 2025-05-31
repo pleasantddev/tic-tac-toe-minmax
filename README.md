@@ -3,10 +3,10 @@
 A minimal and clean Tic-Tac-Toe game built with JavaScript and styled with pure CSS.
 
 ## 🚀 Features
-- Human vs Human play
+- Human vs AI play
 - Basic game logic and winner detection
 - Clean UI
-- Placeholder for AI logic (coming soon)
+- AI opponent using Minimax algorithm
 
 ## 🛠 Files
 - `index.html` - UI layout and styles
